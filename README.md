@@ -85,8 +85,8 @@ I’m currently the **CTO and co-founder of a startup**, where I lead technical 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SergioEderCervantes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SergioEderCervantes&theme=radical&hide_border=false)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=SergioEderCervantes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SergioEderCervantes&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioEderCervantes&theme=radical&hide_border=false&layout=compact)
 
 ---
